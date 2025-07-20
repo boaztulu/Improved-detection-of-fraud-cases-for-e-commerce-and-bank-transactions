@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "CC-react": "file:../../../../../../Downloads/cervical-cancer-web-portal-EAII/cervical-cancer-web-portal-EAII-main/CC-App/front_end"
+  }
+}

@@ -1,0 +1,328 @@
+2024-10-30 20:08:52,794 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:08:52,795 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:08:54,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-30 20:08:54,049 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-30 20:08:54,053 - INFO -  * Restarting with stat
+2024-10-30 20:08:58,331 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:08:58,331 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:08:59,031 - WARNING -  * Debugger is active!
+2024-10-30 20:08:59,041 - INFO -  * Debugger PIN: 950-061-802
+2024-10-30 20:10:40,710 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:10:40,710 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:10:41,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-30 20:10:41,389 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-30 20:10:41,392 - INFO -  * Restarting with stat
+2024-10-30 20:10:45,321 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:10:45,321 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:10:45,934 - WARNING -  * Debugger is active!
+2024-10-30 20:10:45,943 - INFO -  * Debugger PIN: 950-061-802
+2024-10-30 20:16:21,569 - INFO -  * Detected change in 'c:\\Users\\elbet\\OneDrive\\Desktop\\Ten\\week8&9\\github\\Fraud_detection\\model_api\\model_definitions.py', reloading
+2024-10-30 20:16:22,213 - INFO -  * Restarting with stat
+2024-10-30 20:28:01,250 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:28:01,250 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:28:37,181 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:28:37,181 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:31:13,849 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:31:13,850 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:31:46,826 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:31:46,827 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:37:22,775 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:37:22,775 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:37:39,478 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:37:39,478 - INFO - NumExpr defaulting to 8 threads.
+2024-10-30 20:38:10,582 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-30 20:38:10,583 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 15:45:52,917 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 15:45:52,917 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 15:52:01,296 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 15:52:01,297 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 15:53:06,824 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 15:53:06,824 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 15:53:22,976 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 15:53:22,976 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 15:54:53,119 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 15:54:53,120 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 16:14:51,344 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 16:14:51,344 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 16:17:43,559 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 16:17:43,559 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 16:18:24,883 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 16:18:24,883 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 16:18:25,666 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-03 16:18:25,666 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-03 16:18:25,668 - INFO -  * Restarting with stat
+2024-11-03 16:18:29,768 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-11-03 16:18:29,768 - INFO - NumExpr defaulting to 8 threads.
+2024-11-03 16:18:30,340 - WARNING -  * Debugger is active!
+2024-11-03 16:18:30,347 - INFO -  * Debugger PIN: 950-061-802
+2025-07-20 10:28:57,974 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:29:02,280 - WARNING -  * Debugger is active!
+2025-07-20 10:29:02,306 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:29:02,467 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-07-20 10:29:57,915 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\pandas\\util\\_decorators.py', reloading
+2025-07-20 10:29:57,916 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py', reloading
+2025-07-20 10:29:57,921 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\pandas\\io\\common.py', reloading
+2025-07-20 10:29:59,620 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:30:05,959 - WARNING -  * Debugger is active!
+2025-07-20 10:30:06,003 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:30:06,199 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-07-20 10:31:47,493 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\IPython\\display.py', reloading
+2025-07-20 10:31:47,509 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\IPython\\core\\display_functions.py', reloading
+2025-07-20 10:31:47,554 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\IPython\\lib\\display.py', reloading
+2025-07-20 10:31:48,201 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+2025-07-20 10:31:50,704 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:31:58,352 - WARNING -  * Debugger is active!
+2025-07-20 10:31:58,427 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:31:58,565 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-07-20 10:53:54,196 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\ipykernel_launcher.py', reloading
+2025-07-20 10:53:54,216 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\jupyter_client\\manager.py', reloading
+2025-07-20 10:53:54,217 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\jupyter_client\\kernelspec.py', reloading
+2025-07-20 10:53:54,217 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\jupyter_client\\provisioning\\__init__.py', reloading
+2025-07-20 10:53:54,217 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Roaming\\Python\\Python38\\site-packages\\jupyter_client\\provisioning\\factory.py', reloading
+2025-07-20 10:53:57,888 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:54:06,361 - WARNING -  * Debugger is active!
+2025-07-20 10:54:06,448 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:54:06,882 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-07-20 10:55:48,351 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\__init__.py', reloading
+2025-07-20 10:55:48,351 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\__init__.py', reloading
+2025-07-20 10:55:48,357 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\slicer.py', reloading
+2025-07-20 10:55:48,362 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\slicer.py', reloading
+2025-07-20 10:55:48,365 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\slicer_internal.py', reloading
+2025-07-20 10:55:48,366 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\slicer_internal.py', reloading
+2025-07-20 10:55:48,368 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\test_slicer.py', reloading
+2025-07-20 10:55:48,369 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\test_slicer.py', reloading
+2025-07-20 10:55:48,439 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\utils_testing.py', reloading
+2025-07-20 10:55:48,440 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\slicer\\utils_testing.py', reloading
+2025-07-20 10:55:48,627 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2025-07-20 10:55:48,627 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2025-07-20 10:55:48,628 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2025-07-20 10:55:48,629 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\_version.py', reloading
+2025-07-20 10:55:48,630 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\_version.py', reloading
+2025-07-20 10:55:48,631 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\utils.py', reloading
+2025-07-20 10:55:48,632 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\utils.py', reloading
+2025-07-20 10:55:48,633 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\__init__.py', reloading
+2025-07-20 10:55:48,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\__init__.py', reloading
+2025-07-20 10:55:48,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\__init__.py', reloading
+2025-07-20 10:55:48,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\analysis.py', reloading
+2025-07-20 10:55:48,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\analysis.py', reloading
+2025-07-20 10:55:48,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\common.py', reloading
+2025-07-20 10:55:48,639 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\common.py', reloading
+2025-07-20 10:55:48,640 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\context.py', reloading
+2025-07-20 10:55:48,640 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\context.py', reloading
+2025-07-20 10:55:48,641 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\dylib.py', reloading
+2025-07-20 10:55:48,641 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\dylib.py', reloading
+2025-07-20 10:55:48,642 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\executionengine.py', reloading
+2025-07-20 10:55:48,642 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\executionengine.py', reloading
+2025-07-20 10:55:48,644 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\ffi.py', reloading
+2025-07-20 10:55:48,645 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\ffi.py', reloading
+2025-07-20 10:55:48,645 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\initfini.py', reloading
+2025-07-20 10:55:48,645 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\initfini.py', reloading
+2025-07-20 10:55:48,646 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\linker.py', reloading
+2025-07-20 10:55:48,646 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\llvmlite\\binding\\linker.py', reloading
+2025-07-20 10:55:50,854 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:56:03,169 - WARNING -  * Debugger is active!
+2025-07-20 10:56:03,377 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:56:03,700 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-07-20 10:56:10,500 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\__init__.py', reloading
+2025-07-20 10:56:10,502 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\__init__.py', reloading
+2025-07-20 10:56:10,507 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_explanation.py', reloading
+2025-07-20 10:56:10,508 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_explanation.py', reloading
+2025-07-20 10:56:10,510 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_serializable.py', reloading
+2025-07-20 10:56:10,511 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_serializable.py', reloading
+2025-07-20 10:56:10,514 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_version.py', reloading
+2025-07-20 10:56:10,515 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\_version.py', reloading
+2025-07-20 10:56:10,516 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\datasets.py', reloading
+2025-07-20 10:56:10,516 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\datasets.py', reloading
+2025-07-20 10:56:10,516 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\links.py', reloading
+2025-07-20 10:56:10,519 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\links.py', reloading
+2025-07-20 10:56:10,532 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_action.py', reloading
+2025-07-20 10:56:10,533 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_optimizer.py', reloading
+2025-07-20 10:56:10,534 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\__init__.py', reloading
+2025-07-20 10:56:10,535 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\__init__.py', reloading
+2025-07-20 10:56:10,535 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\__init__.py', reloading
+2025-07-20 10:56:10,537 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_action.py', reloading
+2025-07-20 10:56:10,538 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_action.py', reloading
+2025-07-20 10:56:10,538 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_optimizer.py', reloading
+2025-07-20 10:56:10,539 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\actions\\_optimizer.py', reloading
+2025-07-20 10:56:10,545 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\__init__.py', reloading
+2025-07-20 10:56:10,546 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\__init__.py', reloading
+2025-07-20 10:56:10,560 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_compute.py', reloading
+2025-07-20 10:56:10,560 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_compute.py', reloading
+2025-07-20 10:56:10,561 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_explanation_error.py', reloading
+2025-07-20 10:56:10,562 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_explanation_error.py', reloading
+2025-07-20 10:56:10,564 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_result.py', reloading
+2025-07-20 10:56:10,566 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_result.py', reloading
+2025-07-20 10:56:10,569 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_sequential.py', reloading
+2025-07-20 10:56:10,569 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\_sequential.py', reloading
+2025-07-20 10:56:10,571 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\experiments.py', reloading
+2025-07-20 10:56:10,572 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\experiments.py', reloading
+2025-07-20 10:56:10,573 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\framework.py', reloading
+2025-07-20 10:56:10,574 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\framework.py', reloading
+2025-07-20 10:56:10,574 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\measures.py', reloading
+2025-07-20 10:56:10,575 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\measures.py', reloading
+2025-07-20 10:56:10,576 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\methods.py', reloading
+2025-07-20 10:56:10,578 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\methods.py', reloading
+2025-07-20 10:56:10,578 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\metrics.py', reloading
+2025-07-20 10:56:10,579 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\metrics.py', reloading
+2025-07-20 10:56:10,581 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\models.py', reloading
+2025-07-20 10:56:10,581 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\models.py', reloading
+2025-07-20 10:56:10,583 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\plots.py', reloading
+2025-07-20 10:56:10,584 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\benchmark\\plots.py', reloading
+2025-07-20 10:56:10,610 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\__init__.py', reloading
+2025-07-20 10:56:10,612 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\__init__.py', reloading
+2025-07-20 10:56:10,613 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\__init__.py', reloading
+2025-07-20 10:56:10,615 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_additive.py', reloading
+2025-07-20 10:56:10,616 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_additive.py', reloading
+2025-07-20 10:56:10,616 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_exact.py', reloading
+2025-07-20 10:56:10,617 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_exact.py', reloading
+2025-07-20 10:56:10,618 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_explainer.py', reloading
+2025-07-20 10:56:10,618 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_explainer.py', reloading
+2025-07-20 10:56:10,620 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_gpu_tree.py', reloading
+2025-07-20 10:56:10,621 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_gpu_tree.py', reloading
+2025-07-20 10:56:10,622 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_gradient.py', reloading
+2025-07-20 10:56:10,624 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_gradient.py', reloading
+2025-07-20 10:56:10,626 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_kernel.py', reloading
+2025-07-20 10:56:10,628 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_kernel.py', reloading
+2025-07-20 10:56:10,629 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_linear.py', reloading
+2025-07-20 10:56:10,630 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_linear.py', reloading
+2025-07-20 10:56:10,631 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_partition.py', reloading
+2025-07-20 10:56:10,632 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_partition.py', reloading
+2025-07-20 10:56:10,633 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_permutation.py', reloading
+2025-07-20 10:56:10,633 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_permutation.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_sampling.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_sampling.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_tree.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_tree.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\pytree.py', reloading
+2025-07-20 10:56:10,634 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\pytree.py', reloading
+2025-07-20 10:56:10,650 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\tf_utils.py', reloading
+2025-07-20 10:56:10,650 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\tf_utils.py', reloading
+2025-07-20 10:56:10,651 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\__init__.py', reloading
+2025-07-20 10:56:10,651 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\__init__.py', reloading
+2025-07-20 10:56:10,652 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\__init__.py', reloading
+2025-07-20 10:56:10,652 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_pytorch.py', reloading
+2025-07-20 10:56:10,652 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_pytorch.py', reloading
+2025-07-20 10:56:10,654 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_tf.py', reloading
+2025-07-20 10:56:10,654 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_tf.py', reloading
+2025-07-20 10:56:10,655 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_utils.py', reloading
+2025-07-20 10:56:10,656 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\_deep\\deep_utils.py', reloading
+2025-07-20 10:56:10,658 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\__init__.py', reloading
+2025-07-20 10:56:10,658 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\__init__.py', reloading
+2025-07-20 10:56:10,663 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\__init__.py', reloading
+2025-07-20 10:56:10,663 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_coefficient.py', reloading
+2025-07-20 10:56:10,668 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_coefficient.py', reloading
+2025-07-20 10:56:10,669 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_lime.py', reloading
+2025-07-20 10:56:10,670 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_lime.py', reloading
+2025-07-20 10:56:10,670 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_maple.py', reloading
+2025-07-20 10:56:10,670 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_maple.py', reloading
+2025-07-20 10:56:10,672 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_random.py', reloading
+2025-07-20 10:56:10,672 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_random.py', reloading
+2025-07-20 10:56:10,674 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_treegain.py', reloading
+2025-07-20 10:56:10,676 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_treegain.py', reloading
+2025-07-20 10:56:10,676 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_ubjson.py', reloading
+2025-07-20 10:56:10,676 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\explainers\\other\\_ubjson.py', reloading
+2025-07-20 10:56:10,683 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\__init__.py', reloading
+2025-07-20 10:56:10,683 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\__init__.py', reloading
+2025-07-20 10:56:10,689 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\__init__.py', reloading
+2025-07-20 10:56:10,689 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_composite.py', reloading
+2025-07-20 10:56:10,690 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_composite.py', reloading
+2025-07-20 10:56:10,691 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_fixed.py', reloading
+2025-07-20 10:56:10,691 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_fixed.py', reloading
+2025-07-20 10:56:10,695 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_fixed_composite.py', reloading
+2025-07-20 10:56:10,696 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_fixed_composite.py', reloading
+2025-07-20 10:56:10,697 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_fixed_composite.py', reloading
+2025-07-20 10:56:10,697 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_image.py', reloading
+2025-07-20 10:56:10,697 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_image.py', reloading
+2025-07-20 10:56:10,700 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_masker.py', reloading
+2025-07-20 10:56:10,700 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_masker.py', reloading
+2025-07-20 10:56:10,702 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_output_composite.py', reloading
+2025-07-20 10:56:10,703 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_output_composite.py', reloading
+2025-07-20 10:56:10,704 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_tabular.py', reloading
+2025-07-20 10:56:10,704 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_tabular.py', reloading
+2025-07-20 10:56:10,711 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_text.py', reloading
+2025-07-20 10:56:10,711 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\maskers\\_text.py', reloading
+2025-07-20 10:56:10,713 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\__init__.py', reloading
+2025-07-20 10:56:10,713 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\__init__.py', reloading
+2025-07-20 10:56:10,713 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_model.py', reloading
+2025-07-20 10:56:10,713 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_model.py', reloading
+2025-07-20 10:56:10,713 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_teacher_forcing.py', reloading
+2025-07-20 10:56:10,721 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_teacher_forcing.py', reloading
+2025-07-20 10:56:10,723 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_text_generation.py', reloading
+2025-07-20 10:56:10,724 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_text_generation.py', reloading
+2025-07-20 10:56:10,724 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_topk_lm.py', reloading
+2025-07-20 10:56:10,724 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_topk_lm.py', reloading
+2025-07-20 10:56:10,724 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_transformers_pipeline.py', reloading
+2025-07-20 10:56:10,724 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\models\\_transformers_pipeline.py', reloading
+2025-07-20 10:56:10,731 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\__init__.py', reloading
+2025-07-20 10:56:10,731 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\__init__.py', reloading
+2025-07-20 10:56:10,733 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\__init__.py', reloading
+2025-07-20 10:56:10,734 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_bar.py', reloading
+2025-07-20 10:56:10,734 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_bar.py', reloading
+2025-07-20 10:56:10,734 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_beeswarm.py', reloading
+2025-07-20 10:56:10,736 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_beeswarm.py', reloading
+2025-07-20 10:56:10,737 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_benchmark.py', reloading
+2025-07-20 10:56:10,737 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_benchmark.py', reloading
+2025-07-20 10:56:10,739 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_decision.py', reloading
+2025-07-20 10:56:10,739 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_decision.py', reloading
+2025-07-20 10:56:10,739 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_embedding.py', reloading
+2025-07-20 10:56:10,742 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_embedding.py', reloading
+2025-07-20 10:56:10,742 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_force.py', reloading
+2025-07-20 10:56:10,743 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_force.py', reloading
+2025-07-20 10:56:10,744 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_force_matplotlib.py', reloading
+2025-07-20 10:56:10,744 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_force_matplotlib.py', reloading
+2025-07-20 10:56:10,746 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_group_difference.py', reloading
+2025-07-20 10:56:10,747 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_group_difference.py', reloading
+2025-07-20 10:56:10,747 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_heatmap.py', reloading
+2025-07-20 10:56:10,747 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_heatmap.py', reloading
+2025-07-20 10:56:10,747 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_image.py', reloading
+2025-07-20 10:56:10,782 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_image.py', reloading
+2025-07-20 10:56:10,783 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_labels.py', reloading
+2025-07-20 10:56:10,783 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_labels.py', reloading
+2025-07-20 10:56:10,786 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_monitoring.py', reloading
+2025-07-20 10:56:10,787 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_monitoring.py', reloading
+2025-07-20 10:56:10,788 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_partial_dependence.py', reloading
+2025-07-20 10:56:10,788 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_partial_dependence.py', reloading
+2025-07-20 10:56:10,788 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_scatter.py', reloading
+2025-07-20 10:56:10,794 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_scatter.py', reloading
+2025-07-20 10:56:10,794 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_text.py', reloading
+2025-07-20 10:56:10,794 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_text.py', reloading
+2025-07-20 10:56:10,829 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_utils.py', reloading
+2025-07-20 10:56:10,829 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_utils.py', reloading
+2025-07-20 10:56:10,834 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_violin.py', reloading
+2025-07-20 10:56:10,836 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_violin.py', reloading
+2025-07-20 10:56:10,840 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_waterfall.py', reloading
+2025-07-20 10:56:10,841 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\_waterfall.py', reloading
+2025-07-20 10:56:10,848 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\__init__.py', reloading
+2025-07-20 10:56:10,849 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\__init__.py', reloading
+2025-07-20 10:56:10,849 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\_colorconv.py', reloading
+2025-07-20 10:56:10,849 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\_colorconv.py', reloading
+2025-07-20 10:56:10,853 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\_colorconv.py', reloading
+2025-07-20 10:56:10,853 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\_colors.py', reloading
+2025-07-20 10:56:10,856 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\plots\\colors\\_colors.py', reloading
+2025-07-20 10:56:10,868 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\__init__.py', reloading
+2025-07-20 10:56:10,868 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\__init__.py', reloading
+2025-07-20 10:56:10,868 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_clustering.py', reloading
+2025-07-20 10:56:10,875 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_clustering.py', reloading
+2025-07-20 10:56:10,876 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_exceptions.py', reloading
+2025-07-20 10:56:10,877 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_exceptions.py', reloading
+2025-07-20 10:56:10,882 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_general.py', reloading
+2025-07-20 10:56:10,886 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_general.py', reloading
+2025-07-20 10:56:10,888 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_keras.py', reloading
+2025-07-20 10:56:10,890 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_keras.py', reloading
+2025-07-20 10:56:10,891 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_legacy.py', reloading
+2025-07-20 10:56:10,891 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_legacy.py', reloading
+2025-07-20 10:56:10,891 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_masked_model.py', reloading
+2025-07-20 10:56:10,894 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_masked_model.py', reloading
+2025-07-20 10:56:10,895 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_show_progress.py', reloading
+2025-07-20 10:56:10,897 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\_show_progress.py', reloading
+2025-07-20 10:56:10,897 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\image.py', reloading
+2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\image.py', reloading
+2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\transformers.py', reloading
+2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\transformers.py', reloading
+2025-07-20 10:56:13,171 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:56:26,765 - WARNING -  * Debugger is active!
+2025-07-20 10:56:26,819 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:56:27,250 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
