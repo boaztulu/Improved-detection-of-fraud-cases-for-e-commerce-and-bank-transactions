@@ -62,7 +62,7 @@ This repository not only tackles fraud but also prioritizes transparency and tru
 ### Installation & Setup
 
 ```bash
-git clone https://github.com/Yosi2020/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions.git
+git clone https://github.com/boaztulu/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions.git
 cd Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
